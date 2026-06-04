@@ -1,0 +1,2 @@
+"""Deal scraper package."""
+
